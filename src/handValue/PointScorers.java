@@ -13,7 +13,7 @@
  * combinations of cards in the hand. For the last 
  * method cardsInRun the input is the a sorted list
  * of the cards in the hand.
- * 
+ * Author: Maacah Martins
  */
 
 package handValue; 
