@@ -2,13 +2,13 @@
  * Purpose: Evaluate a hand
  * Last Modified: 13-10-2018
  * 
- * This is class that keeps track of the points scored by a
+ * This a is class that keeps track of the points scored by a
  * given hand. This class contains a main method which is used 
  * for taking a 5 part string as input on the command line, 
  * creating a list of possible hand combinations and ultimately, 
  * printing an integer as output that representing the points 
- * scored by the given input.
- * 
+ * scored by the given input. 
+ * Author: Maacah Martins 
  * Peter Schachte's code from Combinations has been added to main method
  * 
  */
